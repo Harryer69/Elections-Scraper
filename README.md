@@ -1,1 +1,2 @@
-# Elections Scraper Engeto projekt č. 3
+# Elections Scraper 
+Třetí projek do Engeto Python Akademie
