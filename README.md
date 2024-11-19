@@ -4,7 +4,19 @@ Třetí projek do Engeto Python Akademie
 ## Popis projektu
 Cílem tohoto projektu je napsat kód pro extrakci parlamentních voleb z roku 2017 z tohoto odkazu: https://www.volby.cz/pls/ps2017nss/ps3?xjazyk=CZ
 
+## Knihovny
+Knihovny použité v tomto programu jsou uvedeny v souboru: requirements.txt
+
 ## Spuštění programu
 Program se spouští pomocí dvou argumentů. python Scraper.py <odkaz_uzemniho_celku> <vystupni_soubor>. Jako výstupní soubor program vytvoří soubor csv.
+
+## Ukázka
+Pro spuštení programu musím zadat skrze terminál správnou cestu k souboru Scraper.py. Následně vložím první argument (odkaz: musí být v uvozovkách) a druhý argument který pojmenuje výstupní csv soubor (také v uvozovkách)
+Argument_1 - "https://www.volby.cz/pls/ps2017nss/ps32?xjazyk=CZ&xkraj=12&xnumnuts=7105"
+Argument_2 - "Sumperk_volby.csv
+
+Výše uvedenými argumenty se program spustí. Po skončení běhu programu se vytvoří csv soubor, který obsahuje výsledky parlamentních voleb ze zadaného okresu pomocí odkazu.
+
+
 
 
