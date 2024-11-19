@@ -21,13 +21,20 @@ Argument_2 - "Sumperk_volby.csv
 
 ### Průběh programu
  
-Stahuji data z URL: https://www.volby.cz/pls/ps2017nss/ps32?xjazyk=CZ&xkraj=12&xnumnuts=7105
-Stahuji data z URL: https://volby.cz/pls/ps2017nss/ps311?xjazyk=CZ&xkraj=12&xobec=525588&xvyber=7105
-Stahuji data z URL: https://volby.cz/pls/ps2017nss/ps311?xjazyk=CZ&xkraj=12&xobec=525804&xvyber=7105
-Stahuji data z URL: https://volby.cz/pls/ps2017nss/ps311?xjazyk=CZ&xkraj=12&xobec=525880&xvyber=7105
-Stahuji data z URL: https://volby.cz/pls/ps2017nss/ps311?xjazyk=CZ&xkraj=12&xobec=525979&xvyber=7105
-Stahuji data z URL: https://volby.cz/pls/ps2017nss/ps311?xjazyk=CZ&xkraj=12&xobec=526169&xvyber=7105
+Stahuji data z URL: https://www.volby.cz/pls/ps2017nss/ps32?xjazyk=CZ&xkraj=12&xnumnuts=7105  
+
+Stahuji data z URL: https://volby.cz/pls/ps2017nss/ps311?xjazyk=CZ&xkraj=12&xobec=525588&xvyber=7105  
+
+Stahuji data z URL: https://volby.cz/pls/ps2017nss/ps311?xjazyk=CZ&xkraj=12&xobec=525804&xvyber=7105  
+
+Stahuji data z URL: https://volby.cz/pls/ps2017nss/ps311?xjazyk=CZ&xkraj=12&xobec=525880&xvyber=7105  
+
+Stahuji data z URL: https://volby.cz/pls/ps2017nss/ps311?xjazyk=CZ&xkraj=12&xobec=525979&xvyber=7105  
+
+Stahuji data z URL: https://volby.cz/pls/ps2017nss/ps311?xjazyk=CZ&xkraj=12&xobec=526169&xvyber=7105  
+
 Stahuji data z URL: https://volby.cz/pls/ps2017nss/ps311?xjazyk=CZ&xkraj=12&xobec=569437&xvyber=7105  
+
 
 Ukládám data do souboru Sumperk_volby.csv
 
